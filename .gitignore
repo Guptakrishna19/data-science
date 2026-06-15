@@ -1,0 +1,44 @@
+# Secrets & environment
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data (keep large/raw data out of Git — use data/README.md instead)
+week*/data/*
+projects/**/data/*
+!**/data/.gitkeep
+!**/data/README.md
+*.csv
+*.parquet
+*.xlsx
+*.zip
+
+# Models & artifacts
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+mlruns/
+wandb/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
