@@ -1,0 +1,10 @@
+# Reflection
+
+In this exercise, I learned the fundamentals of NumPy and how it differs from working with standard Python lists. I practiced creating arrays, reshaping data, and using slicing techniques to access specific elements efficiently.
+
+I also learned how boolean masking can be used to filter data without writing loops, making the code cleaner and easier to read. Understanding axis operations helped me perform calculations across rows and columns, while broadcasting demonstrated how NumPy can automatically apply operations across arrays of different shapes.
+
+The benchmark comparison between a Python loop and a vectorized NumPy operation showed that NumPy is significantly faster for numerical computations. This is because NumPy performs operations using optimized low-level implementations instead of processing elements one by one in Python.
+
+Overall, this exercise helped me understand the importance of vectorization, broadcasting, and efficient array operations. These concepts will be valuable when working with data analysis, machine learning, and scientific computing tasks in the future.
+
