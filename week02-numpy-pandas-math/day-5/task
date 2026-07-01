@@ -1,0 +1,21 @@
+Statistical Summary
+The average house price is around ₹3–4 lakh.
+Most houses have 3 bedrooms.
+House sizes vary from smaller apartments to larger family homes.
+Standard deviation shows moderate variation in prices.
+
+
+Correlation
+Price and SqFt show a strong positive correlation.
+This means larger houses generally cost more.
+Price and Age usually show a negative correlation, meaning older houses tend to be cheaper.
+
+
+
+Distribution
+The histogram shows that house prices are slightly right-skewed.
+A few expensive houses create a long tail on the right.
+The box plot reveals possible outliers.
+The KDE plot confirms that most houses are concentrated in the middle price range.
+
+
