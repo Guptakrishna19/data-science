@@ -1,0 +1,2 @@
+exercise.ipynb filter=lfs diff=lfs merge=lfs -text
+task.ipynb filter=lfs diff=lfs merge=lfs -text
