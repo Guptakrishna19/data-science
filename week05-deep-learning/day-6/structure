@@ -1,0 +1,24 @@
+day-6/
+│
+├── catsdogs_extracted/
+│   └── PetImages/
+│       ├── Cat/
+│       └── Dog/
+│
+├── catsdogs_raw/
+│   └── PetImages/
+│       ├── Cat/
+│       └── Dog/
+│
+├── sample_testing/
+│   ├── eg1.png
+│   ├── eg2.jpeg
+│   ├── eg3.jpeg
+│   ├── eg4.jpeg
+│   ├── eg5.jpeg
+│   └── eg6.jpg
+│
+├── kagglecatsanddogs_5340.zip
+├── mini_DL_classification.ipynb
+├── week05_day6.ipynb
+└── SAMPLE.png

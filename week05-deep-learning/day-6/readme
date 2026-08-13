@@ -1,0 +1,59 @@
+
+---
+
+# README.md
+
+For your repository, I recommend making the README a little more user-friendly than the PR description.
+
+Copy everything below into `README.md`.
+
+```markdown
+# 🐱🐶 Cat vs Dog Image Classification using ResNet18
+
+An end-to-end deep learning image classification project that uses **PyTorch** and **ResNet18 Transfer Learning** to classify images as either **Cat** or **Dog**.
+
+This project was developed as part of a Deep Learning mini-project focused on building, training, evaluating, and documenting a complete deep learning pipeline.
+
+---
+
+## 📌 Project Overview
+
+Image classification is one of the fundamental applications of deep learning.
+
+In this project, a pretrained **ResNet18** convolutional neural network is used to classify images into two classes:
+
+- 🐱 Cat
+- 🐶 Dog
+
+Instead of training a deep CNN completely from scratch, **transfer learning** is used. ResNet18 is first loaded with pretrained ImageNet weights, and its final classification layer is adapted for the two-class problem.
+
+The project covers the complete workflow:
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Train / Validation / Test Split
+   ↓
+Image Preprocessing
+   ↓
+Data Augmentation
+   ↓
+DataLoader
+   ↓
+Pretrained ResNet18
+   ↓
+Transfer Learning
+   ↓
+Training
+   ↓
+Validation
+   ↓
+Testing
+   ↓
+Evaluation
+   ↓
+New Image Prediction
+
+
